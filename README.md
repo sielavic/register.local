@@ -6,5 +6,6 @@
 ·       PHP 7.4+
 ·       Без фреймворков
 ·   	Mysql или Postgresql
+·   	ООП
 ·   	Composer
  
